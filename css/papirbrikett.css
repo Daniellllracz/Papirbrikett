@@ -61,8 +61,17 @@ p:first-letter{
 .kiemelt{
   font-style: italic;
   font-weight: bold;
+  color: black;
 }
 
 li{
   margin-top: 10px;
+}
+body{
+  color: #1F3F5F;
+  
+}
+.kep{
+  margin-right: auto;
+  display: block;
 }
